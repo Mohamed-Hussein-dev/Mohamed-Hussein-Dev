@@ -4,7 +4,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
   
-<p align="middel"> <img src="https://komarev.com/ghpvc/?username=mohmed-hussein&label=Profile%20views&color=0DA06D&style=plastic" alt="Eslam Ayman" /> </p>
+<p align="middel"> <img src="https://komarev.com/ghpvc/?username=mohmed-hussein&label=Profile%20views&color=0DA06D&style=plastic" alt="Mohamed Hussein" /> </p>
 <h1 align="middel">My accounts :</h1>
 <p align="middel">
 <a href="https://www.linkedin.com/in/mohamd-hussein-116852220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Hussein LinkeIn" height="60" width="70" /></a>
