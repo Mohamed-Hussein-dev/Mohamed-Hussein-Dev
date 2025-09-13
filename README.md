@@ -5,7 +5,7 @@ I'm a dedicated software engineer specializing in backend development with .NET 
 
 ## 🔧 Technologies & Tools
 - **Languages**: C#, C++, SQL, JavaScript
-- **Frameworks**: .NET 6, ASP.NET MVC, Entity Framework
+- **Frameworks**: .NET , ASP.NET MVC, Entity Framework
 - **Design Patterns**: Repository Pattern, Unit of Work, Singleton, Iterator
 - **Frontend**: Bootstrap, HTML, CSS
 - **Databases**: SQL Server, MySQL
